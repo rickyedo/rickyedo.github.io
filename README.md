@@ -1,2 +1,0 @@
-# rickyedo.github.io
-ciaio
