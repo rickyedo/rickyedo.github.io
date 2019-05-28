@@ -1,0 +1,10 @@
+<!doctype>
+<html>
+	<frameset cols="30%,70%">    <!---cols per colonne; rows per righe--->
+		<frame name="sinistra" src="sinistra.html">
+		<frame name="destra" src="destra.html">
+	
+	
+	</frameset>
+	
+</html>
